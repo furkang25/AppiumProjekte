@@ -1,2 +1,2 @@
 # AppiumProjekte
-Webseite Testautomatisierung mit Appium
+App Testautomatisierung mit Appium
